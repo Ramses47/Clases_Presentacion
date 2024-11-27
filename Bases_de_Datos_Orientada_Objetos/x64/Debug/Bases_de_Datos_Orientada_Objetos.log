@@ -1,0 +1,6 @@
+﻿  Mimbros.cpp
+C:\Users\Ramsés\source\repos\Bases_de_Datos_Orientada_Objetos\Bases_de_Datos_Orientada_Objetos\Mimbros.h(19,11): error C2661: 'Libros::Libros': ninguna función sobrecargada acepta 9 argumentos
+  (compilando archivo de origen "Mimbros.cpp")
+      C:\Users\Ramsés\source\repos\Bases_de_Datos_Orientada_Objetos\Bases_de_Datos_Orientada_Objetos\Mimbros.h(19,11):
+      al hacer coincidir la lista de argumentos '(std::string, std::string, int, int, std::string, int, std::string, int, int)'
+  
